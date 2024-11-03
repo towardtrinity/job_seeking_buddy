@@ -1,0 +1,6 @@
+langchain-community
+langchain
+pydantic
+streamlit
+openai
+typing-extensions
